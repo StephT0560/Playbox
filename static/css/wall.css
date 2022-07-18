@@ -1,0 +1,291 @@
+/* screen - wall */
+
+.wall {
+  align-items: center;
+  background-color: var(--blackcurrant);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.wall .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 36px;
+  margin-right: 192px;
+  margin-top: 25px;
+  min-width: 227px;
+}
+
+.wall .logout {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 36px;
+  min-width: 82px;
+}
+
+.wall .settings {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 48px;
+  min-height: 36px;
+}
+
+.wall .your-wall {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 134px;
+  letter-spacing: 0;
+  margin-top: 44px;
+  text-align: center;
+  width: 540px;
+}
+
+.wall .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 532px;
+  margin-left: 48.0px;
+  margin-top: 21px;
+  min-width: 1688px;
+}
+
+.wall .overlap-group2 {
+  align-items: flex-start;
+  background-color: #4c4c5c9c;
+  border-radius: 11px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  min-height: 532px;
+  padding: 31px 20px;
+  width: 540px;
+}
+
+.wall .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 84px;
+  margin-top: 8px;
+  min-width: 472px;
+}
+
+.wall .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 84px;
+  width: 255px;
+}
+
+.wall .surname {
+  height: 54px;
+  letter-spacing: 0;
+}
+
+.wall .kanye-west {
+  height: 20px;
+  letter-spacing: 0;
+  margin-left: 4px;
+  margin-top: 10px;
+  width: 246px;
+}
+
+.wall .group {
+  height: 61px;
+  margin-bottom: 0.87px;
+  margin-left: 161px;
+  width: 56px;
+}
+
+.wall .grad-album-cover-2 {
+  align-self: center;
+  height: 348px;
+  margin-right: 6.0px;
+  margin-top: 30px;
+  object-fit: cover;
+  width: 340px;
+}
+
+.wall .overlap-group {
+  align-items: center;
+  background-color: #42414f;
+  border-radius: 11px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  margin-left: 34px;
+  min-height: 532px;
+  padding: 31px 20px;
+  width: 540px;
+}
+
+.wall .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 84px;
+  margin-right: 36.0px;
+  margin-top: 8px;
+  min-width: 464px;
+}
+
+.wall .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 84px;
+  width: 250px;
+}
+
+.wall .clueless {
+  height: 54px;
+  letter-spacing: 0;
+}
+
+.wall .name {
+  height: 20px;
+  letter-spacing: 0;
+  margin-left: 4px;
+  margin-top: 10px;
+  width: 246px;
+}
+
+.wall .icon-star {
+  height: 68px;
+  margin-bottom: 2.0px;
+  margin-left: 144px;
+  width: 70px;
+}
+
+.wall .grad-album-cover {
+  height: 348px;
+  margin-right: 6.0px;
+  margin-top: 30px;
+  object-fit: cover;
+  width: 340px;
+}
+
+.wall .flex-row-3 {
+  align-items: center;
+  display: flex;
+  height: 84px;
+  margin-right: 33.35px;
+  margin-top: 8px;
+  min-width: 467px;
+}
+
+.wall .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 84px;
+  width: 334px;
+}
+
+.wall .the-lightning-thief {
+  height: 54px;
+  letter-spacing: 0;
+}
+
+.wall .name-1 {
+  height: 20px;
+  letter-spacing: 0;
+  margin-left: 4px;
+  margin-top: 10px;
+  width: 246px;
+}
+
+.wall .vector {
+  height: 42px;
+  margin-bottom: 2.46px;
+  margin-left: 82px;
+  width: 51px;
+}
+
+.wall .polygon-1 {
+  height: 75px;
+  margin-left: 48.0px;
+  margin-top: 56px;
+  width: 87px;
+}
+
+.wall .footer {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 8.0px;
+  margin-top: 24px;
+  min-width: 1928px;
+}
+
+.wall .overlap-group-1 {
+  height: 143px;
+  position: relative;
+  width: 1920px;
+}
+
+.wall .rectangle-8 {
+  background-color: var(--shark);
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 1920px;
+}
+
+.wall .about-us {
+  height: 143px;
+  left: 162px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.wall .place {
+  height: 143px;
+  left: 323px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.wall .twitter {
+  height: 143px;
+  left: 1293px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 142px;
+}
+
+.wall .instagram {
+  height: 143px;
+  left: 1481px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.wall .icon-instagram {
+  height: 31px;
+  left: 1435px;
+  position: absolute;
+  top: 56px;
+  width: 33px;
+}
+
+.wall .icon-twitter {
+  height: 31px;
+  left: 1273px;
+  position: absolute;
+  top: 56px;
+  width: 40px;
+}

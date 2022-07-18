@@ -1,0 +1,258 @@
+/* screen - features */
+
+.features {
+  align-items: center;
+  background-color: var(--blackcurrant);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.features .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 627px;
+  margin-right: 62.0px;
+  margin-top: 226px;
+  min-width: 1534px;
+}
+
+.features .flex-col {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.0px;
+  min-height: 498px;
+  width: 856px;
+}
+
+.features .discover-new-things {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 1px;
+  min-height: 96px;
+}
+
+.features .cards {
+  align-items: flex-end;
+  display: flex;
+  height: 138px;
+  margin-top: 85px;
+  min-width: 460px;
+}
+
+.features .overlap-group {
+  align-self: flex-start;
+  background-color: var(--shark);
+  height: 137px;
+  position: relative;
+  width: 134px;
+}
+
+.features .app-logo-inspiraton-51 {
+  height: 67px;
+  left: 36px;
+  position: absolute;
+  top: 16px;
+  width: 62px;
+}
+
+.features .music {
+  height: 55px;
+  left: 1px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  width: 133px;
+}
+
+.features .overlap-group1 {
+  align-items: center;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  margin-left: 29px;
+  min-height: 137px;
+  padding: 0.0px 0.0px;
+  width: 134px;
+}
+
+.features .icon-star {
+  height: 66px;
+  margin-left: 1.95px;
+  margin-top: 15px;
+  width: 64px;
+}
+
+.features .movies {
+  height: 55px;
+  letter-spacing: 0;
+  margin-left: 1.22px;
+  margin-top: 1px;
+  text-align: center;
+  width: 133px;
+}
+
+.features .overlap-group2 {
+  background-color: var(--shark);
+  height: 137px;
+  margin-left: 29px;
+  position: relative;
+  width: 134px;
+}
+
+.features .books {
+  height: 55px;
+  left: 1px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  width: 133px;
+}
+
+.features .app-logo-inspiraton-61 {
+  height: 72px;
+  left: 30px;
+  position: absolute;
+  top: 12px;
+  width: 74px;
+}
+
+.features .by-signing-up-you-c {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 83px;
+  min-height: 96px;
+  width: 856px;
+}
+
+.features .er-container {
+  height: 647px;
+  margin-left: 60px;
+  margin-top: -10px;
+  position: relative;
+  width: 628px;
+}
+
+.features .lightning-theif-cover-1 {
+  height: 333px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 270px;
+}
+
+.features .grad-album-cover-1 {
+  height: 333px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 365px;
+}
+
+.features .joker-poster-1 {
+  height: 334px;
+  left: 262px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 365px;
+}
+
+.features .clueless-poster-1 {
+  height: 334px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.features .footer {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 8.0px;
+  margin-top: 94px;
+  min-width: 1928px;
+}
+
+.features .overlap-group4 {
+  height: 143px;
+  position: relative;
+  width: 1920px;
+}
+
+.features .rectangle-8 {
+  background-color: var(--shark);
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 1920px;
+}
+
+.features .about-us {
+  height: 143px;
+  left: 162px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.features .place {
+  height: 143px;
+  left: 323px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.features .twitter {
+  height: 143px;
+  left: 1293px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 142px;
+}
+
+.features .instagram {
+  height: 143px;
+  left: 1481px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.features .icon-instagram {
+  height: 31px;
+  left: 1435px;
+  position: absolute;
+  top: 56px;
+  width: 33px;
+}
+
+.features .icon-twitter {
+  height: 31px;
+  left: 1273px;
+  position: absolute;
+  top: 56px;
+  width: 40px;
+}
