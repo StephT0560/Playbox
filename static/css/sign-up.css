@@ -1,0 +1,162 @@
+/* screen - sign-up */
+
+.sign-up {
+  align-items: center;
+  background-color: var(--blackcurrant);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.sign-up .flex-row {
+  align-items: center;
+  display: flex;
+  height: 704px;
+  margin-left: 29.07px;
+  margin-top: 128px;
+  min-width: 1611px;
+}
+
+.sign-up .join-the-fun {
+  height: 91px;
+  margin-bottom: 29.0px;
+  width: 660px;
+}
+
+.sign-up .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 151px;
+  min-height: 704px;
+  padding: 30px 102px;
+  width: 794px;
+}
+
+.sign-up .name {
+  letter-spacing: 0;
+  min-height: 36px;
+}
+
+.sign-up .rectangle-5 {
+  border-radius: 11px;
+  height: 60px;
+  margin-top: 38px;
+  width: 579px;
+}
+
+.sign-up .email {
+  letter-spacing: 0;
+  margin-top: 37px;
+  min-height: 37px;
+  width: 80px;
+}
+
+.sign-up .rectangle {
+  border-radius: 11px;
+  height: 61px;
+  margin-top: 37px;
+  width: 579px;
+}
+
+.sign-up .password {
+  letter-spacing: 0;
+  margin-top: 37px;
+  min-height: 36px;
+}
+
+.sign-up .overlap-group {
+  align-items: flex-start;
+  background-color: var(--matisse-2);
+  border-radius: 10px;
+  display: flex;
+  margin-top: 61px;
+  min-width: 579px;
+}
+
+.sign-up .join-now {
+  height: 84px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 579px;
+}
+
+.sign-up .footer {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 8.0px;
+  margin-top: 105px;
+  min-width: 1928px;
+}
+
+.sign-up .overlap-group2 {
+  height: 143px;
+  position: relative;
+  width: 1920px;
+}
+
+.sign-up .rectangle-8 {
+  background-color: var(--shark);
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 1920px;
+}
+
+.sign-up .about-us {
+  height: 143px;
+  left: 162px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.sign-up .place {
+  height: 143px;
+  left: 323px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.sign-up .twitter {
+  height: 143px;
+  left: 1293px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 142px;
+}
+
+.sign-up .instagram {
+  height: 143px;
+  left: 1481px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.sign-up .icon-instagram {
+  height: 31px;
+  left: 1435px;
+  position: absolute;
+  top: 56px;
+  width: 33px;
+}
+
+.sign-up .icon-twitter {
+  height: 31px;
+  left: 1273px;
+  position: absolute;
+  top: 56px;
+  width: 40px;
+}

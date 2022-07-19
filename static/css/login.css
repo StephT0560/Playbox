@@ -1,0 +1,155 @@
+/* screen - login */
+
+.login {
+  align-items: center;
+  background-color: var(--blackcurrant);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.login .flex-row {
+  align-items: center;
+  display: flex;
+  height: 650px;
+  margin-right: 55.1px;
+  margin-top: 128px;
+  min-width: 1691px;
+}
+
+.login .back-for-more-fun {
+  height: 91px;
+  margin-top: 25.0px;
+  width: 776px;
+}
+
+.login .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 117px;
+  min-height: 650px;
+  padding: 30px 102px;
+  width: 794px;
+}
+
+.login .email {
+  letter-spacing: 0;
+  min-height: 36px;
+}
+
+.login .rectangle-5 {
+  border-radius: 11px;
+  height: 60px;
+  margin-top: 38px;
+  width: 579px;
+}
+
+.login .password {
+  letter-spacing: 0;
+  margin-top: 37px;
+  min-height: 36px;
+}
+
+.login .rectangle-6 {
+  border-radius: 11px;
+  height: 61px;
+  margin-top: 38px;
+  width: 579px;
+}
+
+.login .overlap-group {
+  align-items: flex-start;
+  background-color: var(--matisse-2);
+  border-radius: 10px;
+  display: flex;
+  margin-top: 111px;
+  min-width: 579px;
+}
+
+.login .login-1 {
+  height: 84px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 579px;
+}
+
+.login .footer {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 8.0px;
+  margin-top: 159px;
+  min-width: 1928px;
+}
+
+.login .overlap-group2 {
+  height: 143px;
+  position: relative;
+  width: 1920px;
+}
+
+.login .rectangle-8 {
+  background-color: var(--shark);
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 1920px;
+}
+
+.login .about-us {
+  height: 143px;
+  left: 162px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.login .place {
+  height: 143px;
+  left: 323px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.login .twitter {
+  height: 143px;
+  left: 1293px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 142px;
+}
+
+.login .instagram {
+  height: 143px;
+  left: 1481px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.login .icon-instagram {
+  height: 31px;
+  left: 1435px;
+  position: absolute;
+  top: 56px;
+  width: 33px;
+}
+
+.login .icon-twitter {
+  height: 31px;
+  left: 1273px;
+  position: absolute;
+  top: 56px;
+  width: 40px;
+}
